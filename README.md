@@ -1,5 +1,5 @@
 # 3kW-1000-rpm-surface-mounted-permanent-magnet-synchronous-motor
-Thermal (heat transfer) analysis
+Thermal (heat transfer) analysis:
 In recent years, with the expansion of the use of electric motors in various industries, the need for motors with
 limited dimensions and high torque and power density at the same time has increased. To design and construct such
 a motor, in addition to electromagnetic analysis, we also need thermal analysis. Because practically, there are 
