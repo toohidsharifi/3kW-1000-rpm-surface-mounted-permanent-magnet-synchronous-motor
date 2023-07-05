@@ -10,9 +10,10 @@ issues in addition to solids issues; In other words, besides the motor, we must 
 external fluids of the motor. This fluid has a significant effect on the cooling of the motor, and this fluid
 causes the main convective currents of the electric motor.
 
-![Permanent Magnet Circumferential](https://github.com/toohidsharifi/3kW-1000-rpm-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/6fbc8a91-6d6f-4381-8d1f-af8689e322b5)
+![Drawing6](https://github.com/toohidsharifi/3kW-1000-rpm-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/f3ee0af0-750b-49d1-b420-c63e6af5d7d7)
 
 ![Stator and Housing](https://github.com/toohidsharifi/3kW-1000-rpm-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/6ca72f66-1912-4c0b-a9ce-ba472287b957)
 
 ![MachineWithoutWinding](https://github.com/toohidsharifi/3kW-1000-rpm-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/bc90ce25-568b-4da9-b404-f78a42eeea39)
 
+![Permanent Magnet Circumferential](https://github.com/toohidsharifi/3kW-1000-rpm-surface-mounted-permanent-magnet-synchronous-motor/assets/126771405/6fbc8a91-6d6f-4381-8d1f-af8689e322b5)
